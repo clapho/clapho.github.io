@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.3"
-
+gem 'public_suffix', '~> 6.0.1'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

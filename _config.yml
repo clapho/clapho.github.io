@@ -1,9 +1,9 @@
 # Site settings
-title: froggydisk # site title
+title: clapho # site title
 description: >- # site description
   This is for frogs in the world.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Asia/Tokyo # set your timezone
 image: https://github.com/froggydisk/froggydisk.github.io/blob/master/assets/img/profile.png?raw=true # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/froggydisk # site repo [optional]
 mode: dark # default theme "dark" | "light"
@@ -12,16 +12,16 @@ mode: dark # default theme "dark" | "light"
 author:
   name: ./workspace # author name
   bio: >- # tell to the world
-    froggy_disk
-  username: Dr.Frog # general username
-  github: froggydisk # github username
+    clapho
+  username: clapho # general username
+  github: clapho # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: sewoomkim93@gmail.com # email adress
+  email: clapp301@gmail.com # email adress
   avatar: /assets/img/profile.png # change with your own avatar
 
 # URL settings
-url: "https://froggydisk.github.io" #
+url: "https://clapho.github.io" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
